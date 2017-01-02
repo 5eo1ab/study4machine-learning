@@ -1,6 +1,4 @@
-# ML-2016F
-
-### Assignment 2
+## Assignment 2 : Implement kernel window function
 
 1. Implement density estimation using cosine kernel without scikit-learn package
 
