@@ -7,7 +7,7 @@ This Repository is Assignment for Machine Learning Course. To understand the mac
 
 The list is as follows :
 
-> ~~1. Implement backward elimination~~
+> 1. ~~Implement backward elimination~~
 > 2. Implement kernel window function
 >   1. Density estimation using cosine kernel
 >   2. Kernel smoothing with epanechnikov kernel
@@ -15,7 +15,7 @@ The list is as follows :
 >   1. BaggingClassifier based on k-NN classifier 
 >   2. BaggingRegressor based on k-NN regressor
 > 4. Implement random forest
-> ~~5. Derive the dual form of SVC(on hand)~~
+> 5. ~~Derive the dual form of SVC(on hand)~~
 > 6. Implement multiclass support vector machine
 > 7. Implement PCA and LDA
 > 8. Using arcene data, compare dimensionality reduction methods
