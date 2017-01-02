@@ -9,7 +9,7 @@
 ##### Evaluation
     - Use segmentation.data
     - Split data into train and test set
-        - [cross_validation.train_test_split](http://scikit-learn.org/stable/modules/cross_validation.html).
+        - [cross_validation.train_test_split](http://scikit-learn.org/stable/modules/cross_validation.html/).
         - Test set size = 20% of original data
         - Use stratified split
         - Random state=100
