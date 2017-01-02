@@ -10,7 +10,7 @@ import numpy as np
 from scipy import stats 
 import matplotlib.pyplot as plt
 
-dir_ = 'D:/course_2016_fall/Machine_Learning/Data/Assignment/'
+dir_ = '../Data/'
 data = pd.read_table(dir_+'kernel_smoothing_test.txt', names=['X', 'Y'])
 input_ = data['X']
 output_ = data['Y']
