@@ -9,7 +9,7 @@ Created on Sun Nov 27 13:18:26 2016
 import pandas as pd
 from pandas import DataFrame as df
 import numpy as np
-dir = "D:/course_2016_fall/Machine_Learning/Data/Weeks12/"
+dir = "../Data/"
 meta_data = pd.read_csv(dir+'metadata-uci-mushroom.csv', names=['name', 'description'])
 raw_data = pd.read_csv(dir+'mushroom_agaricus-lepiota.data', names=meta_data['name'])
 
